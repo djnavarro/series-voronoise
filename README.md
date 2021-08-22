@@ -7,3 +7,5 @@
 <!-- badges: end -->
 
 An art repository at <https://djnavarro.net/series-voronoise>
+
+.
